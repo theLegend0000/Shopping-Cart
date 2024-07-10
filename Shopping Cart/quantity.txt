@@ -1,0 +1,10 @@
+ID: 1, Name: Laptop, Price: 40000, Quantity: 100
+ID: 2, Name: Mobile, Price: 25000, Quantity: 100
+ID: 3, Name: Mouse, Price: 30000, Quantity: 100
+ID: 4, Name: Keyboard, Price: 15000, Quantity: 100
+ID: 5, Name: Headphones, Price: 50000, Quantity: 100
+ID: 6, Name: Monitor, Price: 5000, Quantity: 100
+ID: 7, Name: Speaker, Price: 35000, Quantity: 100
+ID: 8, Name: Printer, Price: 45000, Quantity: 100
+ID: 9, Name: Scanner, Price: 10000, Quantity: 100
+ID: 10, Name: Charger, Price: 8000, Quantity: 100
